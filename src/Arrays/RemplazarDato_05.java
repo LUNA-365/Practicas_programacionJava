@@ -7,6 +7,8 @@ el programa preguntará por el número que se quiere insertar y por la posición
 donde será insertado. Los números del array se desplazan a la derecha para
 dejar sitio al nuevo. El último número (el que se encuentra en la posición 11)
 siempre se perderá.
+
+//Nuevo comentario..
  */
 package Arrays;
 
